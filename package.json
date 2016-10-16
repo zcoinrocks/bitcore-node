@@ -54,7 +54,7 @@
     "commander": "^2.8.1",
     "errno": "^0.1.4",
     "express": "^4.13.3",
-    "insight-api": "zcoinrocks/bitcore-wallet-client#f630884e70f539b970797d77be99d7312b0f84a5",
+    "insight-api": "zcoinrocks/insight-api#f630884e70f539b970797d77be99d7312b0f84a5",
     "insight-ui": "0.4.0",
     "liftoff": "^2.2.0",
     "lru-cache": "^4.0.1",
