@@ -1,0 +1,23 @@
+{
+  "network": "mainnet",
+  "port": 3001,
+  "services": [
+    "bitcoind",
+    "insight-api",
+    "insight-ui",
+    "web"
+  ],
+  "servicesConfig": {
+    "bitcoind": {
+      "network": "mainnet",
+      "connect": [
+        {
+          "rpchost": "54.183.73.165",
+          "rpcport": 8332,
+          "rpcuser": "username",
+          "rpcpassword": "password"
+        }
+      ]
+    }
+  }
+}
