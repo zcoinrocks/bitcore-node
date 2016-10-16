@@ -80,5 +80,8 @@
     "rimraf": "^2.4.2",
     "sinon": "^1.15.4"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "engines": {
+    "node": "6.7.0"
+  }
 }
