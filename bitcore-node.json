@@ -18,6 +18,9 @@
           "rpcpassword": "password"
         }
       ]
-    }
+    },
+		"insight-ui": {
+			"routePrefix": ""
+		}
   }
 }
