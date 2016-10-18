@@ -55,7 +55,7 @@
     "commander": "^2.8.1",
     "errno": "^0.1.4",
     "express": "^4.13.3",
-    "insight-api": "zcoinrocks/insight-api#e6007d4440878b97462bae231f4849156c109014",
+    "insight-api": "zcoinrocks/insight-api#c639e77dfbd0a01f5f8d0f4a679b822e93a93f32",
     "insight-ui": "zcoinrocks/insight-ui#a64c0c0c2f15b71876ff69939f2a6dd4684e9f20",
     "liftoff": "^2.2.0",
     "lru-cache": "^4.0.1",
